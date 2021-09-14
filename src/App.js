@@ -6,9 +6,11 @@ function App() {
       <header>
         <a href="/">React App</a>
       </header>
+
       <main>
         Product List
       </main>
+      
       <footer>
         Jack Bond
       </footer>
