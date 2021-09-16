@@ -1,0 +1,63 @@
+{
+    "products": [
+    {
+        "_id": "apple",
+        "image": "/images/apple.jpg",
+        "title": "Apples",
+        "description": "Apples are high in fiber, vitamin C, and various antioxidants. ",
+        "type": "fruit",
+        "calories/100g": 52,
+        "protein(g/100g)": 0.6,
+        "carbs(g/100g)": 11.6,
+        "fat(g/100g)": 0.5
+    },
+    {
+        "_id": "carrot",
+        "image": "/images/carrot.jpg",
+        "title": "Carrots",
+        "description": "Carrots are a particularly good source of beta carotene, fiber, vitamin K1, potassium, and antioxidants",
+        "type": "vegetable",
+        "calories/100g": 41,
+        "protein(g/100g)": 0.9,
+        "carbs(g/100g)": 9.6,
+        "fat(g/100g)": 0.2
+    },
+    {
+        "_id": "chicken-breast",
+        "image": "/images/chicken-breast.jpg",
+        "title": "Chicken Breast",
+        "description": "Chicken breast is a great source of lean protein (protein without a lot of accompanying fat).",
+        "type": "protein",
+        "calories/100g": 165,
+        "protein(g/100g)": 31,
+        "carbs(g/100g)": 0,
+        "fat(g/100g)": 3.6
+
+    },
+    {
+        "_id": "white-rice",
+        "image": "/images/white-rice.jpg",
+        "title": "White Rice",
+        "description": "White rice is a source of carbohydrates, it also has 4 to 5 grams of protein in one serving and almost no fat.",
+        "type": "grain",
+        "calories/100g": 130,
+        "protein(g/100g)": 2.7,
+        "carbs(g/100g)": 28,
+        "fat(g/100g)": 0.3
+
+    },
+    {
+        "_id": "egg",
+        "image": "/images/eggs.jpg",
+        "title": "Eggs",
+        "description": "Eggs are a natural source of many nutrients including high quality protein, vitamins and minerals.",
+        "type": "dairy",
+        "calories/100g": 155,
+        "protein(g/100g)": 13,
+        "carbs(g/100g)": 1.1,
+        "fat(g/100g)": 11
+
+    },
+    ]
+}
+
